@@ -141,7 +141,7 @@ Author: Adithyan Manoj
 
 Email: [adithyanmanoj33@example.com]
 
-LinkedIn: https://linkedin.com/in/adithyan-manoj
+LinkedIn: https://linkedin.com/in/adithyan-manoj-715024191
 
 GitHub: https://github.com/aadh33
 
